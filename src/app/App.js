@@ -1,10 +1,10 @@
 import React from 'react'
+import Main from "./main/Main";
 
 function App(){
     return(
         <div>
-            <p>Rimantes page</p>
-            <h5>Antraste</h5>
+            <Main/>
         </div>
     )
 }
