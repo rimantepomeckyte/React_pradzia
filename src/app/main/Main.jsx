@@ -7,7 +7,7 @@ const Main = () => {
     return(
         <div>
             <Booklist />
-            <Contacts name='Rimante' email='rimante@gmail.com'/>
+            <Contacts name='Rimante' email='rimante@gmail.com' initialAge={21}/>
         </div>
     )
 }
